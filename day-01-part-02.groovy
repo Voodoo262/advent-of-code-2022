@@ -1,3 +1,4 @@
+// https://adventofcode.com/2022/day/1#part2
 def current = 0;
 def leaderboard = new PriorityQueue(new Comparator<Integer>() {
     public int compare(Integer elf1, Integer elf2) {

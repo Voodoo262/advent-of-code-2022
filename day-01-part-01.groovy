@@ -1,3 +1,4 @@
+// https://adventofcode.com/2022/day/1
 def current = 0, max = 0;
 def file = new File('day-01.input.txt');
 file.withReader { reader ->

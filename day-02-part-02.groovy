@@ -1,3 +1,4 @@
+// https://adventofcode.com/2022/day/2#part2
 def file = new File('day-02.input.txt');
 int getPointsForRound(Character opponentInput, Character yourInput) {
     def opponentValue = (int)(opponentInput - 'A'.charAt(0)) + 1;
