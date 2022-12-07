@@ -1,4 +1,4 @@
-// https://adventofcode.com/2022/day/4
+// https://adventofcode.com/2022/day/5
 def file = new File('day-05.input.txt');
 def stackCount = 0;
 ArrayList<Stack<Character>> stacks;
